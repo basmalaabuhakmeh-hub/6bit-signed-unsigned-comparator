@@ -1,4 +1,6 @@
-Advanced Digital project implementing a 6-bit comparator in Verilog that supports both signed (two’s complement) and unsigned comparison modes.
+# 6bitSignedUnsignedComparator
+
+Advanced Digital Design project implementing a 6-bit comparator in Verilog that supports both signed (two’s complement) and unsigned comparison modes.
 
 The system compares two inputs (A and B) and produces:
 - A_greater_B
